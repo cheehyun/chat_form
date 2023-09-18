@@ -1,0 +1,16 @@
+C:\Users\박치현\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\ChatServer.exe
+C:\Users\박치현\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\ChatServer.deps.json
+C:\Users\박치현\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+C:\Users\박치현\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\ChatServer.dll
+C:\Users\박치현\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.dll
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\refint\ChatServer.dll
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+C:\Users\박치현\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ref\ChatServer.dll

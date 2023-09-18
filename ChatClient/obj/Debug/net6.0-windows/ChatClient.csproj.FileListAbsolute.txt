@@ -1,0 +1,16 @@
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.Form1.resources
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.GenerateResource.cache
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\박치현\source\repos\ChatClient\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\박치현\source\repos\ChatClient\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\박치현\source\repos\ChatClient\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\박치현\source\repos\ChatClient\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\박치현\source\repos\ChatClient\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\박치현\source\repos\ChatClient\obj\Debug\net6.0-windows\ref\ChatClient.dll
